@@ -1,6 +1,6 @@
 # SyDE600-homework 🎶
 
-SyDE 600 homework
+SyDE 600 homework (using pysd)
 
 ## installation ✨
 
