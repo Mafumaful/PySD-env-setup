@@ -1,0 +1,13 @@
+name: SyDE600
+dependencies:
+  - python
+  - pip
+  - ipython
+  - jupyter
+  - matplotlib
+  - scipy
+  - sympy
+  - pandas
+  - netCDF4
+  - pip:
+      - pysd
