@@ -9,5 +9,6 @@ dependencies:
   - sympy
   - pandas
   - netCDF4
+  - geopandas
   - pip:
       - pysd

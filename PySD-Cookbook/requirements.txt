@@ -1,0 +1,11 @@
+pysd
+pyDOE
+scipy
+matplotlib
+jupyter
+seaborn
+mpld3
+geopandas
+pymc
+sklearn
+mapclassify
