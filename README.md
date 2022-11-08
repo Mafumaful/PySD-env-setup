@@ -1,6 +1,6 @@
-# SyDE600-homework 🎶
+# pysd environment setup 🎶
 
-SyDE 600 homework (using pysd)
+pysd environment setup
 
 ## installation ✨
 
@@ -9,7 +9,7 @@ strongly recommand wsl if you are using Windows. 😊
 Download all modules in one command: 🐱‍👓
 
 ```bash
-git clone --recursive https://github.com/Mafumaful/SyDE600-homework.git
+git clone --recursive https://github.com/Mafumaful/PySD-env-setup.git
 ```
 
 Or you have downloaded before:
@@ -31,13 +31,13 @@ conda env update -f environment.yml
 and use
 
 ```
-conda activate SyDE600
+conda activate PySD
 ```
 
 and
 
 ```
-conda deactivate SyDE600
+conda deactivate PySD
 ```
 
 to activate and deactivate the environment.
